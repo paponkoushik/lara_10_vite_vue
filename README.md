@@ -10,3 +10,9 @@ A simple backend for task management.
 - [Sanctum for authentication](https://laravel.com/docs/10.x/sanctum).
 - [Used Notification Call for notifying the recipients](https://laravel.com/docs/10.x/notifications).
 - Followed service and Builder design pattern.
+
+Dependencies and command to start the backend server.
+- Make sure you have PHP 8 or above. because Latest laravel has been used here.
+- Run ```composer install``` to add dependencies.
+- Make sure you have  ``composer version 2``.
+
